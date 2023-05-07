@@ -1,0 +1,10 @@
+name: KillEffects
+version: '${project.version}'
+main: com.coldspare.killeffects.KillEffects
+api-version: 1.18
+authors: [ ColdSpare ]
+description: Kill effects plugin for ranks
+commands:
+  killeffects:
+    description: Opens the KillEffects equip menu.
+    usage: /<command> <tome>
